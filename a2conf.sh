@@ -2,7 +2,7 @@
 ## Autor: Diego Fernández Doce
 ## Descripción: Automatización de creación de carpeta Web en /var/www
 ## 		los archivos de configuración de hosts y sites-availabe y sites-enable
-##		creción de la base de datos y reinicio del servidor.
+##		y reinicio del servidor.
 
 ####################
 ## Configuración ##
