@@ -56,7 +56,6 @@ function show_help() {
 	
 }
 
-show_help $1
 
 ###########################
 ## Creamos el directorio ##
